@@ -1,8 +1,10 @@
 ## INITIAL STAGE VIEW
 Shows execution of the first three stages: Build, Test, and Deploy
+
 ![alt text](<stage view-1-1.png>)
 ## INITIAL CONSOLE OUTPUT 
 Logs showing each step before the "Cleanup" stage was added
+
 ![alt text](<console output-before-1.png>)
 ## STAGE VIEW AFTER CLEANUP
 Illustrates successful execution of the new Cleanup stage along with the previous ones
